@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Hello👋 I'm Frank</h4>
+<h4 align="center">Hello👋 I'm Frank</h4>
 
 ###
 
@@ -22,7 +22,7 @@
 </div>
 
 ###
-<h4 align="right">Skills</h4>
+<h4 align="left">Skills</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
