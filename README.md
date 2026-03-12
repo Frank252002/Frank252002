@@ -1,10 +1,11 @@
-👋 Hi there!
+## Hii 👋 I'm Frank
 
-I'm a **Data Science graduate** passionate about turning raw data into meaningful insights. I enjoy working with **Python, SQL, Machine Learning, and Data Visualization** to solve real-world problems.
+I am a **Data Science Graduate**
 
-I love exploring datasets, building models, and creating dashboards that help make smarter decisions.
+### About me
 
-🚀 Always learning, always building.
-
-**Interests:** Data Science • Machine Learning • Analytics • Visualization
-**Hobbies:** Gym, tech, and building data projects
+📊 I'm passionate about Data Science and Analytics
+📚 I'm currently learning **Machine Learning & AI**
+💻 I work with **Python, SQL, and Data Visualization tools**
+📈 I enjoy building **data analysis and dashboard projects**
+📫 How to reach me: [stalindsouza487@gmail.com](stalindsouza487@gmail.com)
