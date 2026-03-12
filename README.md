@@ -7,9 +7,9 @@
 <h2 align="center">Hello👋 I'm Frank</h2>
 
 ###
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqYm9zZDYwOWJ5anBjMndwOGxoY3phdjVmdnpzNTJtYnl4d3I3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif"  />
 
 <h2 align="left">About Me!</h2>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqYm9zZDYwOWJ5anBjMndwOGxoY3phdjVmdnpzNTJtYnl4d3I3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif"  />
 <p align="left">I am a Data Science Graduate<br>📊 I'm passionate about Data Science and Analytics<br>📚 I'm currently learning Machine Learning & AI<br>💻 I work with Python, SQL, and Data Visualization tools<br>📈 I enjoy building data analysis and dashboard projects<br></div>📫 How to reach me: stalindsouza487@gmail.com </p>
 
 ###
