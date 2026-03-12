@@ -7,7 +7,7 @@
 <h4 align="center">Hello👋 I'm Frank</h4>
 
 ###
-<h1 align="left">About Me!</h1>
+<h2 align="left">About Me!</h2>
 <p align="left">I am a Data Science Graduate<br>📊 I'm passionate about Data Science and Analytics<br>📚 I'm currently learning Machine Learning & AI<br>💻 I work with Python, SQL, and Data Visualization tools<br>📈 I enjoy building data analysis and dashboard projects<br></div>📫 How to reach me: stalindsouza487@gmail.com </p>
 
 ###
