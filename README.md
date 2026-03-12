@@ -8,8 +8,8 @@
 
 ###
 
-<p align="left">I am a Data Science Graduate<br><br>About me<br>📊 I'm passionate about Data Science and Analytics<br>📚 I'm currently learning Machine Learning & AI<br>💻 I work with Python, SQL, and Data Visualization tools<br>📈 I enjoy building data analysis and dashboard projects<br>📫 How to reach me: stalindsouza487@gmail.com <div align="right">
-  <img height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqYm9zZDYwOWJ5anBjMndwOGxoY3phdjVmdnpzNTJtYnl4d3I3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif"/>
+<p align="left">I am a Data Science Graduate<br><br>About me<br>📊 I'm passionate about Data Science and Analytics<br>📚 I'm currently learning Machine Learning & AI<br>💻 I work with Python, SQL, and Data Visualization tools<br>📈 I enjoy building data analysis and dashboard projects<br>📫 How to reach me: stalindsouza487@gmail.com 
+<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqYm9zZDYwOWJ5anBjMndwOGxoY3phdjVmdnpzNTJtYnl4d3I3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif"/>
 </div></p>
 
 ###
@@ -40,12 +40,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
